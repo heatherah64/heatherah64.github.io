@@ -104,3 +104,10 @@ body {
   align-items: center;
   padding: 20px;
 }
+
+section.resume {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
