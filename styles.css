@@ -99,7 +99,7 @@ body {
 
 .project_section {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   padding: 20px;
